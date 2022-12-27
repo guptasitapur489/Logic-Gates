@@ -1,0 +1,103 @@
+h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-emphasis-color: rgb(245, 10, 10);
+    
+    display: inline-block;
+}
+div{
+    display: inline-block;
+}
+#header{
+    display: block;
+    background-color: rgb(117, 121, 118);
+    height: 50px;
+}
+body{
+    margin: 0;
+    background-color: #bbc2bd;
+}
+#welcome{
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 7%;
+    margin-right: 50%;
+    margin-bottom: 10%;
+    /* width: 200px;     */
+}
+#contact{
+    text-align: right;
+    /* margin-right: 5%; */
+    background-color: #fc0d0d;
+}
+#notcontainer{
+    background-color: rgb(157, 255, 0);
+
+    margin:1% 1% 1% 1% ;
+    border-radius: 20px;
+    padding-top: 0;
+    border-color: #15fc0d65;
+    border-width: 7px;
+    border-style: solid;
+}
+#norcontainer{
+    background-color: rgb(157, 255, 0);
+    margin:1% 1% 1% 1% ;
+    border-radius: 20px;
+    border-color: #15fc0d65;
+    border-width: 7px;
+    border-style: solid;
+}
+#xorcontainer{
+    background-color: rgb(157, 255, 0);
+    margin:1% 1% 1% 1% ;
+    border-radius: 20px;
+    border-color: #15fc0d65;
+    border-width: 7px;
+    border-style: solid;
+    /* display: inline-block; */
+}
+#andcontainer{
+    background-color: rgb(157, 255, 0);
+
+    margin:1% 1% 1% 1% ;
+    border-radius: 20px;
+    border-color: #15fc0d65;
+    border-width: 7px;
+    border-style: solid;
+}
+#nandcontainer{
+    background-color: rgb(157, 255, 0);
+    margin:1% 1% 1% 4% ;
+    border-radius: 20px;
+    border-color: #15fc0d65;
+    border-width: 7px;
+    border-style: solid;
+}
+#orcontainer{
+    background-color: rgb(157, 255, 0);
+
+    margin:1% 1% 1% 1% ;
+    border: 100px;
+    border-radius: 20px;
+    border-color: #15fc0d65;
+    border-width: 7px;
+    border-style: solid;
+}
+/* #btn{
+    background-color: black;
+} */
+button{
+    cursor: pointer;
+    border: 2px ;
+    border-radius: 7px;
+    font-size: large;
+    padding: 6px;
+    background-color: #2c7017;
+    color: white;
+}
+#reset{
+    /* margin-right:10%; */
+    display: inline;
+    margin-top: 70%;
+}
